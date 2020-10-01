@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning on Angular
 - 👯 I’m looking to collaborate on github
 - 💬 Ask me about Javascript and React
-- 📫 How to reach me:Twitter: https://twitter.com/v_un_be_at
 - 😄 Pronouns: She/Her
 <img src="https://github-readme-stats.vercel.app/api?username=vandana1499&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
